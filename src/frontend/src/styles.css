@@ -1,0 +1,19 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    background: url('https://cdn.pixabay.com/photo/2018/11/17/07/10/planner-3820633__480.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Leckerli One', serif;
+    font-size: 70px;
+}
+
+.background img {
+    width: 300px;
+}
+
+.welcome {
+    color: #212121;
+}

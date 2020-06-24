@@ -1,0 +1,17 @@
+  /* label underline focus color */
+  /* .input-field input[type=text]:focus {
+    border-bottom: 1px solid #000;
+    box-shadow: 0 1px 0 0 #000;
+  } */
+
+  .ng-valid[required], .ng-valid.required {
+    border-bottom: 2px solid #42A948;
+  }
+
+  .ng-invalid:not(form) {
+    border-bottom: 2px solid #a94442;
+  }
+
+  a {
+    cursor: pointer;
+  }
